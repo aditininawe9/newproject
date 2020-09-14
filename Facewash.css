@@ -1,0 +1,18 @@
+.navbar{
+	background-color: black;	
+	border-radius: 0 !important;
+	min-height: 117px;
+} 
+.navbar img{
+	height: 500%;
+	width: 30%;
+}
+nav ul li a{
+	margin-top: 50px;
+}
+nav ul li a:hover{
+	background-color:  #FA9FB9 !important;	
+}
+header,footer{
+    background: #000;
+}

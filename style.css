@@ -1,0 +1,68 @@
+.navbar{
+	background-color: black;	
+	border-radius: 0 !important;
+	min-height: 117px;
+} 
+.navbar img{
+	height: 500%;
+	width: 30%;
+}
+nav ul li a{
+	margin-top: 50px;
+}
+nav ul li a:hover{
+	background-color:  #FA9FB9 !important;	
+}
+header,footer{
+    background: #000;
+}
+
+.banner{
+    background: url('images/makeup.jpg');  
+    opacity: 0.5;
+ 	background-position: center;	
+    background-repeat: no-repeat;
+    background-size:   cover;
+    height: 100vh;
+    width: 1330px;
+    margin-top: -20px;
+}
+.button{
+	position: absolute;
+	top: 70%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+h1{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	font-weight: bolder;
+	transform: translate(-50%, -50%);	
+}
+.btn{
+	border : 1px solid #FA9FB9;
+	background-color: #ff0066;
+	padding: 10px 10px;
+	color: #fff;
+	text-decoration: none;
+}
+.btn : hover{
+	border : 1px solid #fff;
+}
+
+#img-bottom{
+	margin-left: 350px;
+	height: 160px;
+	width: 230px;
+	padding: 25px;
+	margin-top: -35px;
+}
+#navbarul a {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 14px;
+}

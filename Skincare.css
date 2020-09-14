@@ -1,0 +1,34 @@
+.navbar{
+	background-color: black;	
+	border-radius: 0 !important;
+	min-height: 117px;
+} 
+.navbar img{
+	height: 500%;
+	width: 30%;
+}
+nav ul li a{
+	margin-top: 50px;
+}
+nav ul li a:hover{
+	background-color:  #FA9FB9 !important;	
+}
+header,footer{
+    background: #000;
+}
+.box2{
+    margin: 0;
+    background: #fff;
+    border: 2px solid #fff000;
+    width: 100%;
+    height: 550px;
+    padding: 10px 30px;
+    display:block;
+}
+#img-bottom{
+	margin-left: 350px;
+	height: 160px;
+	width: 230px;
+	padding: 25px;
+	margin-top: -35px;
+}
